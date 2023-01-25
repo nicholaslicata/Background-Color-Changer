@@ -17,6 +17,7 @@
     border: none;
     border-radius: 5px;
     font-weight: bold;
+    color: red;
 }
 
 .color-btn:hover {
